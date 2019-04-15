@@ -1,0 +1,28 @@
+/*
+* Moira Gervay
+* Topic 4 Classwork
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { background-color: lightyellow
+
+} 
+/*Header background color*/
+header {
+    background-color: lightpink
+}
+/*Main background color*/
+main {
+    background-color: skyblue
+}
+/*Footer background color*/
+footer {
+    background-color: greenyellow
+}
